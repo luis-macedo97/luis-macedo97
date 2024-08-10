@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Luís!</strong>
 
-> Sou da área de PHP, mas tenho conhecimentos tanto em APPs (back-end & front-end)
+> Sou da área de PHP, mas sempre há uma nova experiência onde estou disposto a aprender.
 
-🔭 Atualmente desenvolvendo um Sistema PDV em Laravel e Trazendo modificações com base no sistema Foodomaa.
+🔭 Desenvolvido sistema Back & Front para Orgão Govermental do Estado do Distrito Federal.
 
 💬 É um prazer te-lo por aqui, fique a vontade para ver meu perfil.
 
